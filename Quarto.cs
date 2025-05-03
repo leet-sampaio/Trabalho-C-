@@ -1,9 +1,7 @@
 using System;
 
-class Quarto
-{
-    static void Main(string[] args)
-    {
+class Quarto{
+    static void Main(string[] args){
         int usuario = 0;
 
         while (usuario != 3){
