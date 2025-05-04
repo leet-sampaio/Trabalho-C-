@@ -1,6 +1,6 @@
 # Trabalho-C-
 
-Trabalho realizado pelo trio Gustavo Ribeiro, Letícia Sampaio e Maria Vitória. 
+Trabalho realizado pelo trio Gustavo Ribeiro de Oliveira, Letícia Sampaio e Maria Vitória. 
 
 # Questões resolvidas:
 
